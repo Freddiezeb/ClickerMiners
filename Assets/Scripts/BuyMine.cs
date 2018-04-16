@@ -8,18 +8,48 @@ public class BuyMine : MonoBehaviour
 {
     public Text textBox;
     public int gravelMineCost;
+    public int graniteMineCost;
+    public int metalMineCost;
+    public int obsidianMineCost;
+    public int goldMineCost;
 
-    public void BuyGravelMine()
+    public void MinePayment(int mineCost)
     {
-        if (GlobalClicks.currencyCount >= gravelMineCost)
+        if (GlobalClicks.currencyCount >= mineCost)
         {
-            GlobalClicks.currencyCount -= 10;
+            GlobalClicks.currencyCount -= mineCost;
         }
         else
         {
             StartCoroutine(FadeTextToZeroAlpha(2f, textBox));
         }
     }
+
+    public void BuyGravelMine()
+    {
+        MinePayment(gravelMineCost);
+    }
+
+    public void BuyGraniteMine()
+    {
+        MinePayment(graniteMineCost);
+    }
+
+    public void BuyMetalMine()
+    {
+        MinePayment(metalMineCost);
+    }
+
+    public void BuyObsidianMine()
+    {
+        MinePayment(obsidianMineCost);
+    }
+
+    public void BuyGoldMine()
+    {
+        MinePayment(goldMineCost);
+    }
+
 
     public IEnumerator FadeTextToZeroAlpha(float t, Text i)
     {
