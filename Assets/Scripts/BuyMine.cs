@@ -1,8 +1,9 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Handles all the mines to be bought
 public class BuyMine : MonoBehaviour
 {
     public Text textBox;
