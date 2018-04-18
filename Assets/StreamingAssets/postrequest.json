@@ -1,0 +1,10 @@
+{
+"aggregateBy":[
+{
+"dataSourceId":"derived:com.google.step_count.delta:com.google.android.gms:estimated_steps"
+}
+],
+"bucketByTime":{"durationMillis":86400000},
+"startTimeMillis":1524059337050,
+"endTimeMillis":1524059937050
+}
