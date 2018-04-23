@@ -1,2 +1,0 @@
-# ClickerMiners
-Mobile clicker game 

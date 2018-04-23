@@ -1,0 +1,4 @@
+#Mon Apr 23 20:33:00 CEST 2018
+base.0=C\:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

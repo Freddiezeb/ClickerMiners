@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Freddie\\Documents\\GitHub\\ClickerMinersAndroid\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    }
+]
